@@ -1,0 +1,151 @@
+FULLY_SPECIFIED,SHORT
+PNCM_Number,पि. एन. सी. नं.
+GLOBAL_Location_Home,घर
+GLOBAL_Location_Hospital,अस्पताल
+GLOBAL_Location_Clinic,अमृत क्लिनिक
+GLOBAL_delivery location,प्रसव का स्थान
+PNC_C_Date,प्रसव की तारीख
+PNC_C_Mother_Birth_Weight,जन्म के दिन वजन (कि. ग्रा.)
+PNC_C_How many months pregnancy,कितने माह का गर्भ
+PNC_C_Delivery_Period_Term,टर्म
+PNC_C_Delivery_Period_Pre-Term,प्रीटर्म
+PNC_C_Delivery_Period_PaxTreme_Pre-Term,एक्सट्रीम प्रीटर्म
+PNC_C_Delivery_Period_In_Weeks,प्रसव की अवधि
+PNC_C_1,1
+PNC_C_2,2
+PNC_C_3,3
+PNC_C_4,4
+PNC_C_5,5
+PNC_C_6,6
+PNC_C_Which_Visit,कौनसी विजिट
+PNC_Visit_Date,विजिट की तारीख
+PNC_C_Visit_Location_Clinic,क्लिनिक
+PNC_C_Visit_Location_OutReach,आउटरीच
+PNC_C_Visit_Location,विजिट का स्थान
+PNCM_Mother's_Weight,"	माँ का वजन (कि. ग्रा.)"
+PNCM_Feeling_Good,अच्छा
+PNCM_Feeling_Not_Good,अच्छा नहीं
+PNCM_How_are_you_feelling,आपको कैसा महसूस हो रहा है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_fever_to_you,क्या आपको बुखार है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_there_smelly_discharge,क्या आपको बदबुदार स्त्राव हो रहा है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_there_dysuria,क्या आपके पेशाब में जलन है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_there_pain_at_bottom_area,क्या आपके पेट के निचले भाग में दर्द है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_there_bledding_continuously,क्या आपको खून जाना जारी है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_Is_there_need_to_change_morethan_5_pad,क्या आपको एक दिन में 5 से अधिक PAD की जरुरत है?
+PNCM_Taken_Food_Complement,पूरक
+PNCM_Taken_Food_Non-Essential,अपूरक
+PNCM_from_yesterday_you_have_taken_food,कल से आज तक आपने क्या खाया और पिया है?
+Pulse_motion,नब्ज गति (प्रति मिनिट)
+Blood_pressure,रक्तचाप सिस्टोलिक (mmHg)
+Blood_pressure_Distolic,रक्तचाप डायास्टोलिक (mmHg)
+breathingRate,सांस की दर (प्रति मिनिट)
+PNC_SPO2,SpO2 (%)
+PNCM_anemic_Severe_Fade,गंभीर फीकापन
+PNCM_anemic_Fade,फीकापन
+PNCM_anemic_pink,गुलाबी
+PNCM_anemic,"खून की कमी (आँख, जीभ, त्वचा देखने पर)"
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_breasts_check_nipple_flap,निप्पल चपटे या धँसें
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_breasts_check_nipple_cut,निप्पल का कटाव
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_breasts_check_pain on_thrombing_or_pressing_on_breasts,स्तनों पर ललाई या दबाने पर दर्द
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNCM_breasts_check_excessive_amount_of_milk,दूध का अत्यधिक जमाव
+PNCM_Hemoglobin,हिमोग्लोबिन (gm/dL)
+PNCM_Hemoglobin_Abnormal,Abnormal
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+Consultation_Hindi_Self_care,स्वयं की देखभाल, भोजन, आराम
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Temprature,तापमान (फ)
+Consultation_Hindi_family_planning,परिवार नियाजन
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_kangaroo mother care,कंगारू मदर केयर की सलाह
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Is need to sent to hospital,क्या अस्पताल भेजने की जरुरत है?
+PNC_C_Infant_name,बच्चे का नाम
+PNC_C_Infant_Boy,लड़का
+PNC_C_Infant_Girl,लड़की
+PNC_C_Infant_Gender,लिंग
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Ask Mother - do you have any problems related to the newborn,माँ से पूछें- क्या आपको नवजात सम्बन्धी कोई परेशानी है?
+PNC_C_Birth_Weight,वजन (कि. ग्रा.)
+GLOBAL_breathingRate,सांस प्रति मिनिट
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+GLOBAL_See ribs,पसली का अत्यधिक धंसना ?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+GLOBAL_Groan,कराहना
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Navel is red or brittle,नाभि लाल या पीप है
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Rubbish-pimple On Body,बदन पर फोड़ी/फुंसी है?
+GLOBAL_Ans_option_good,अच्छा
+GLOBAL_Ans_option_Not_At_ALL,बिलकुल नहीं
+Ans_option_Not_good,अच्छा नहीं
+PNC_C_How is the childs attachment to the breast,बच्चे का स्तन से लगाव कैसा है?
+GLOBAL_Ans_option_Not_At_ALL,बिलकुल नहीं
+PNC_C_Not_Effective_Way,प्रभावी ढंग से नहीं
+PNC_C_Effective_Way,प्रभावी ढंग से
+PNC_C_Is the mother breastfeeding effectively,क्या माँ प्रभावी ढंग से स्तनपान करा रही है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Provides only breastfeeding or other diet,सिर्फ स्तनपान या ऊपरी आहार भी देते है?
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Back abscess,पीठ में फोड़ा
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Lipped lips or palate,फटा हुआ होंठ या तालू
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Breast Feeding,स्तनपान
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Immunization,टीकाकरण
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Keep the baby warm,बच्चे को गर्म रखें
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Child Cleanliness & Care,बच्चे की साफ़ सफाई एवं देखबाल
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Danger signs,खतरे के लक्षण
+Ans_option_yes_hindi,हाँ
+Ans_option_no_hindi,नहीं
+PNC_C_Is need to sent to hospital,क्या अस्पताल भेजने की जरुरत है?
+GLOBAL_Follow up after,दोबारा दिखानेकी तारीख
+GLOBAL_Doctors_Name_1,Dr. Sanjana
+GLOBAL_Doctors_Name_2,Dr. Pavitra
+GLOBAL_Doctors_Name_3,Dr. Pukhraj
+GLOBAL_Doctors_Name_4,Dr. Anurag
+GLOBAL_Doctors_Name_5,Dr. Rohit
+GLOBAL_Hindi_Name_of_Doctor,डॉक्टर नाम
+GLOBAL_Nurse/SHW_name1,Nurse / SHW Name 1
+GLOBAL_Nurse/SHW_name2,Nurse / SHW Name 2
+GLOBAL_Name_of_nurse_or_SHW_hindi,नर्स या SHW का नाम

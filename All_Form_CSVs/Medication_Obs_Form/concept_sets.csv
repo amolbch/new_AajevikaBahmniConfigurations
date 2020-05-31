@@ -1,0 +1,5 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,reference-term-source,reference-term-code,reference-term-relationship
+MediObsForm_Details,,ConvSet,Medication Details,MediObsForm_Drug_Name,MediObsForm_Dose_Frequency_Duration,MediObsForm_Quantity,,,,,,,,,,,
+Tre_Procedure_Section,,ConvSet,Procedure,Procedure,,,,,,,,,,,,,
+Tre_Counselling_Section,,ConvSet,Counselling,Tre_Counselling,,,,,,,,,,,,,
+Treatment_Form,,ConvSet,Treatment Form,MediObsForm_Details,Tre_Procedure_Section,Tre_Counselling_Section,,,,,,,,,,,

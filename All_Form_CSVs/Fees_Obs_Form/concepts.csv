@@ -1,0 +1,10 @@
+name,description,class,shortname,datatype,units,High Normal,Low Normal,Allow Decimal,locale,synonym.1,answer.1,answer.2,answer.3,answer.4,answer.5,answer.6,answer.7,reference-term-source,reference-term-code,reference-term-relationship
+Delivery Fee,,Misc,Delivery Fee,N/A,,,,,,,,,,,,,,,,
+Registration Fee,,Misc,Registration Fee,N/A,,,,,,,,,,,,,,,,
+HBA1c,,Misc,HBA1c,N/A,,,,,,,,,,,,,,,,
+Iron Studies,,Misc,Iron Studies,N/A,,,,,,,,,,,,,,,,
+Bilirubin Direct,,Misc,Bilirubin Direct,N/A,,,,,,,,,,,,,,,,
+Bilirubin Indirect,,Misc,Bilirubin Indirect,N/A,,,,,,,,,,,,,,,,
+Bilirubin Total,,Misc,Bilirubin Total,N/A,,,,,,,,,,,,,,,,
+FeesObsForm_Fees,,Misc,Type Of Fee,Coded,,,,,,,Delivery Fee,Registration Fee,HBA1c,Iron Studies,Bilirubin Direct,Bilirubin Indirect,Bilirubin Total,,,
+FeesObsForm_Fees_Amount,,Misc,Amount,Numeric,,,,,,,,,,,,,,,,

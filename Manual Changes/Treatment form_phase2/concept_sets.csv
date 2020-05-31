@@ -1,0 +1,4 @@
+"uuid","name","description","class","shortname","child.1","child.2","child.3","reference-term-source","reference-term-code","reference-term-relationship"
+"6b719950-3c53-4081-95d9-fd68778a9697","MediObsForm_Details",,"ConvSet","Medication Details","MediObsForm_Drug_Name","MediObsForm_Quantity","",,,
+"780586c6-d56b-40a6-9819-cc5142932549","Tre_Procedure_Section",,"ConvSet","Procedure","Procedure","","",,,
+"423e000b-af56-4792-a500-3c24e17586ab","Treatment_Form",,"ConvSet","Treatment Form","MediObsForm_Details","Tre_Procedure_Section","",,,

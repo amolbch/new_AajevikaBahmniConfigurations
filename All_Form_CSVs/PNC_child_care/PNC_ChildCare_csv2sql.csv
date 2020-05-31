@@ -1,0 +1,39 @@
+FULLY_SPECIFIED,SHORT
+PNC_C_Birth_Weight,जन्म के दिन वजन (कि. ग्रा.)
+PNC_C_In 32 weeks (long before the time),< 32 हफ्तों में (समय से बहुत पहले)
+PNC_C_32 - 36 weeks (before time),32 - 36 हफ्तों में (समय से पहले)
+PNC_C_37 - 42 weeks (on time),37 - 42 हफ्तों में (समय पर)
+PNC_C_When was delivery,प्रसव कब हुआ
+PNC_C_How many months pregnancy,कितने माह का गर्भ (माह)
+PNC_C_Ask Mother - do you have any problems related to the newborn?,माँ से पूछे – क्या आपको नवजात सम्बन्धी कोई परेशानी है ?
+Temprature (F),तापमान (°F)
+RR Abnormal,RR Abnormal
+PNC_Weight,वजन (कि. ग्रा.)
+PNC_C_Navel is red or brittle,नाभि लाल या पीप है
+PNC_C_Rubbish-pimple On Body,बदन पर फोड़ें-फुंसी हैं
+Ans_option_Not_good,ठीक नहीं है
+PNC_C_How is the childs attachment to the breast,बच्चे का स्तन से लगाव कैसा है
+PNC_C_Is the mother breastfeeding effectively,क्या माँ प्रभावी ढंग से स्तनपान करा रही है
+Ans_option_only breastfeeding,खाली स्तनपान
+Ans_option_other,ऊपरी आहार
+PNC_C_Provides only breastfeeding or other diet,सिर्फ स्तनपान या ऊपरी आहार भी देते हैं
+PNC_C_Back abscess,पीठ में फोड़ा
+PNC_C_Lipped_Option1,फटा हुआ होंठ
+PNC_C_Lipped_Option2,फटा हुआ तालू
+PNC_C_Lipped lips or palate,फटा हुआ होंठ या तालू
+PNC_C_kangaroo mother care,कंगारू मदर केयर
+PNC_C_Breast Feeding,स्तनपान
+PNC_C_Immunization,टीकाकरण
+PNC_C_Keep the baby warm,बच्चे को गर्म रखें     
+PNC_C_Danger signs,खतरे के लक्षण
+PNC_C_Child Cleanliness & Care,बच्चे की साफ – सफाई एवं देखभाल
+PNC_C_Is need to sent to hospital,क्या अस्पताल भेजने की जरुरत है?
+GLOBAL_Hindi_Name_of_Doctor_1,डॉक्टर का नाम १
+GLOBAL_Hindi_Name_of_Doctor_2,डॉक्टर का नाम २
+GLOBAL_Hindi_Name_of_Doctor,डॉक्टर का नाम
+GLOBAL_Nurse/SHW_name1,नर्स / SHW_Name 1
+GLOBAL_Nurse/SHW_name2,नर्स / SHW_Name 2
+GLOBAL_Name_of_nurse_or_SHW_hindi,नर्स या / SHW का नाम
+GLOBAL_Follow up after,दोबारा दिखानेकी तारीख
+PNC_C_ask,पूछे
+PNC_child_care,प्रसव के बाद नवजात की जाँच

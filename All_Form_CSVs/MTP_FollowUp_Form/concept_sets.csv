@@ -1,0 +1,12 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,reference-term-source,reference-term-code,reference-term-relationship
+Systolic Data,,Concept Details,BP Systolic,Systolic,Systolic Abnormal,,,,,,,,,,,,
+Diastolic Data,,Concept Details,BP Diastolic,Diastolic,Diastolic Abnormal,,,,,,,,,,,,
+Temperature Data,,Concept Details,Temperature,Temperature,Temperature Abnormal,,,,,,,,,,,,
+MTP_Pulse_Data,,Concept Details,PR,Pulse,Pulse Abnormal,,,,,,,,,,,,
+MTP_RR Data,,Concept Details,RR,RR ,RR Abnormal,,,,,,,,,,,,
+SPO2 Data,,Concept Details,SpO2,SPO2,SPO2 Abnormal,,,,,,,,,,,,
+MTP_FollowUp_Vitals,,ConvSet,Vital parameters,Systolic Data,Diastolic Data,Temperature Data,MTP_Pulse_Data,MTP_RR Data,SPO2 Data,,,,,,,,
+MTP_FollowUp_Complaint_1,,ConvSet,Complaints,MTP_FollowUp_Started_Bleeding,MTP_FollowUp_Bleeding_Excessive,,,,,,,,,,,,
+MTP_FollowUp_Findings,,ConvSet,Findings,MTP_Uterus_Size,MTP_FU_Urin_Prgncy_Test,,,,,,,,,,,,
+MTP_FollowUp_Councelling,,ConvSet,Counselling,MTP_FollowUp_CN_Contra_method,MTP_FollowUp_CN_CM_Adopted,MTP_FollowUp_CN_What_CM_Adopted,,,,,,,,,,,
+MTP_FollowUp_Form,,Misc,MTP FollowUP Form,MTP_FollowUp_Vitals,MTP_FollowUp_Complaint_1,MTP_FollowUp_Findings,MTP_FollowUp_Misoprostal_Given,MTP_FollowUp_abortion_complete,MTP_FollowUp_Councelling,GLOBAL_FollowUpDate,GLOBAL_Doctors_Name,GLOBAL_Nurse_Name,,,,,

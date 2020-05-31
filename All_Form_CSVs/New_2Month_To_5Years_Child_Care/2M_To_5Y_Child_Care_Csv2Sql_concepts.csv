@@ -1,0 +1,105 @@
+FULLY_SPECIFIED,SHORT
+GLOBAL_Type_Of_Visit,Type of visit
+GLOBAL_Hindi_Date,तारीख
+2MT5Y_Heart_Rate,हार्ट रेट (प्रति मिनट)
+2MT5Y_Breath_Rate,सांस की दर
+GLOBAL_Hindi_Temprature,तापमान (फ)
+2MT5Y_Auscultation_Creps_R,Creps R
+2MT5Y_Auscultation_Creps_L,Creps L
+2MT5Y_Auscultation_Creps_BL,Creps BL
+2MT5Y_Auscultation_Wheeze,Wheeze
+2MT5Y_Auscultation,Auscultation
+2MT5Y_SPO2,SpO2
+2MT5Y_SPO2_AbnormL,Abnormal
+GLOBAL_Infant_Weight,वजन (कि. ग्रा) 
+2MT5Y_WAZ,WAZ
+GLOBAL_Infant_Height,लम्बाई (से. मी.)
+2MT5Y_Severe_Dryness,गंभीर फीकापन
+2MT5Y_Swelling_Legs,दोनों पैरों में सूजन
+2MT5Y_Malnutrition_Check,गंभीर कुपोषण के लिए जाँच करें
+2MT5Y_NO_SAM,गंभीर कुपोषण नहीं है
+2MT5Y_No_Malnutrition,कुपोषण नहीं
+2MT5Y_Malnutrition,कुपोषित
+2MT5Y_Highly_Malnourished,अति कुपोषित
+2MT5Y_Malnutrition_Grade_Determine,कुपोषण के ग्रेड को निर्धारित करें
+2MT5Y_Slow_Unconscious,सुस्त या बेहोश
+2MT5Y_Wont_Drink,कुछ पी नहीं सकता
+2MT5Y_Wont_Breast_Feed,स्तनपान नहीं कर सकता
+2MT5Y_Vomits_Everything,सबकुछ उलटी कर देता है
+2MT5Y_Do_Dorre,दौरे पड़ते है
+2MT5Y_Danger_Common_Symptoms,खतरे के आम लक्षण हैं ?
+2MT5Y_Difficulty_Coughing_Breathing,क्या शिशु को खांसी या सांस लेने में कठिनाई है?
+2MT5Y_Fast_Breath,तेज सांस
+2MT5Y_Ribs_Fall,पसली का धंसना
+2MT5Y_Severe_Pneumonia,गंभीर निमोनिया
+2MT5Y_Pneumonia,निमोनिया
+2MT5Y_Cough,खांसी-जुखाम
+2MT5Y_Pneumonia_Classification,वर्गीकरण
+2MT5Y_Does_Child _Have_Diarrhea,क्या शिशु को दस्त है?
+2MT5Y_How_Many_Days,कितने दिनों से ?
+2MT5Y_D_How_Many_Days,कितने दिनों से ?
+2MT5Y_Blood_In_Stool,क्या मल में खून आता है?
+2MT5Y_Slow_Unconscious,सुस्त या बेहोश
+2MT5Y_Restless_Irritable,बेचैन व चिड़चिड़ा
+2MT5Y_Blazon_Eyes,धंसी हुई आँखें
+2MT5Y_Drinking_Prob,पी नहीं सकता या कम पी सकता है
+2MT5Y_Thirsty_Drink,पीने को उतावला प्यासा
+2MT5Y_Skin_Soft,त्वचा धीरे जाती है
+2MT5Y_Skin_Soft_fast,त्वचा बहुत धीरे जाती है
+2MT5Y_Dehydration_Symptoms,निर्जलीकरण के कोई लक्षण?
+2MT5Y_No_Dehydration,निर्जलीकरण नहीं है
+2MT5Y_Severe_Dehydration,गंभीर निर्जलीकरण
+2MT5Y_Some_Dehydration,कुछ निर्जलीकरण
+2MT5Y_Persistent_Diarrhea,लगातार दस्त रोग
+2MT5Y_Bloody_Diarrhea,खूनी दस्त (डीसेंट्री)
+2MT5Y_Diarrhea_Classification,वर्गीकरण
+2MT5Y_Does_Baby_Have_Fever,क्या शिशु को बुखार है?
+2MT5Y_From_How_many_Days,"यदि हाँ, तो कितने दिनों से ?"
+2MT5Y_Neck_Pain,गर्दन में अखड़ाहट
+2MT5Y_Fever_More_Than_7_Days,7 दिन से अधिक समय से बुखार
+2MT5Y_Daily_Fever,बुखार रोजाना आता है
+2MT5Y_Any_Of_These_Symptoms,क्या शिशु को इन्मेसे कोई लक्षण है?
+2MT5Y_Negative,Negative
+2MT5Y_PV,PV
+2MT5Y_PF,PF
+2MT5Y_Mixed,Mixed
+2MT5Y_RDK,RDK
+2MT5Y_Severe_Fever,गंभीर बुखार
+2MT5Y_Malaria,मलेरिया
+2MT5Y_Other_Fever,अन्य बुखार
+2MT5Y_Fever_Classification,वर्गीकरण
+2MT5Y_Some_Dryness,कुछ फीकापन
+2MT5Y_No_Dryness,फीकापन नहीं
+2MT5Y_Dryness_On_Hands,हथेली के फीकापन को देखें
+2MT5Y_Hemoglobin,हीमोग्लोबिन
+2MT5Y_Hemoglobin_Abnormal,Abnormal
+2MT5Y_Severe_Anemia,गंभीर एनीमिया
+2MT5Y_Anemia,एनीमिया
+2MT5Y_No_Anemia,एनीमिया नहीं है
+2MT5Y_Anemia_Classification,वर्गीकरण
+2MT5Y_Feed_Problem,खानपान संबंधी समस्या
+2MT5Y_No_Feed_Problem,खानपान संबंधी समस्या नहीं है
+2MT5Y_Feed_Estimation,खाने का आकलन करें
+2MT5Y_Does_Child_Have_Severe_Malnutrition,क्या बच्चे में गंभीर कुपोषण पाया गया है?
+2MT5Y_Treatment_Of_Severe_Malnutrition,क्या बच्चा गंभीर कुपोषण के इलाज पर है?
+2MT5Y_TB_History,History of contact with TB in family
+2MT5Y_Celebral_Palsy,Celebral Palsy
+2MT5Y_Delayed_Milestones,Delayed milestones
+2MT5Y_Heart_Disease,Congenital heart disease
+2MT5Y_Malformation,Congenital malformation
+2MT5Y_Other,Other
+2MT5Y_Any_Disease_Condition,Any chronic disease/ condition
+2MT5Y_If_Other_Specify,"If other, specify"
+2MT5Y_Poor,Poor
+2MT5Y_Not_Poor,Not Poor
+2MT5Y_Appetite_Test,Appetite test
+2MT5Y_Peanut_Allergy,Peanut allergy
+2MT5Y_Number_Of_RUTF_Packets,Number of RUTF packets consumed
+2MT5Y_Child_Recovery_From_SAM,Has the child recovered from SAM?
+2MT5Y_Danger_Symptoms,खतरे के लक्षण
+2MT5Y_Immunization,टीकाकरण
+2MT5Y_Nautorial_Counseling,नुट्रीशनल काउंसलिंग
+2MT5Y_Contraceptive_Advice_To_Mother,माँ को गर्भनिरोधक साधनों की सलाह
+2M_any_other_Problem,अन्य समस्या
+2MT5Y_Advice,सलाह
+2MT5Y_Diagnosis,डायग्नोसिस

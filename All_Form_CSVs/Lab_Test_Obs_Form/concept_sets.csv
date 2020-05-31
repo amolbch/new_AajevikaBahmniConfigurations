@@ -1,0 +1,8 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,child.12,child.13,child.14,child.15,child.16,reference-term-source,reference-term-code,reference-term-relationship
+Lab_Hemoglobin_Data,,Concept Details,Hemoglobin,Lab_Hemoglobin,Lab_Hemoglobin_Abnormal,,,,,,,,,,,,,,,,,
+Lab_Random_Blood_Sugar_Data,,Concept Details,Random Blood Sugar,Lab_Random_Blood_Sugar,Lab_Random_Blood_Sugar_Abnormal,,,,,,,,,,,,,,,,,
+Lab_Fasting_Blood_Sugar_Data,,Concept Details,Fasting Blood Sugar,Lab_Fasting_Blood_Sugar,Lab_Fasting_Blood_Sugar_Abnormal,,,,,,,,,,,,,,,,,
+Lab_PP_Blood_Sugar_Test_Data,,Concept Details,PP Blood Sugar,Lab_PP_Blood_Sugar,Lab_PP_Blood_Sugar_Abnormal,,,,,,,,,,,,,,,,,
+Lab_In_House_Section,,ConvSet,In House Test,Lab_Hemoglobin,Lab_Random_Blood_Sugar,Lab_Fasting_Blood_Sugar,Lab_PP_Blood_Sugar,Lab_RDK_For_MP,Lab_Typhoid_RDK_Test,Lab_HIV,Lab_VDRL,Lab_Urine_Pregnancy_Test,Lab_Urine_Leucocyte,Lab_Urine_Nitrite,Lab_Urine_Blood,Lab_Urine_Sugar,Lab_Urine_Albumin,Lab_Sputum_For_AFB_Test,,,,
+Lab_Out_Lab_Section,,ConvSet,Out Source Test,Lab_OS_test_ordered,Lab_Test_Result,,,,,,,,,,,,,,,,,
+Lab_Test_Obs_Form,,ConvSet,Lab Test Form,Lab_In_House_Section,Lab_Out_Lab_Section,,,,,,,,,,,,,,,,,

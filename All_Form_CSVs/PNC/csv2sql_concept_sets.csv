@@ -1,0 +1,27 @@
+FULLY_SPECIFIED,SHORT
+PNC_First_Visit,पहली विजिट
+PNCM_ask,पूछें
+Pulse_Abnormal,Abnormal
+PNC_Pulse_Data,नब्ज गति (प्रति मिनिट)
+Blood_pressure_Abnormal,Abnormal
+PNC_Systolic_Data,रक्तचाप सिस्टोलिक (mmHg)
+Blood_P_Distolic_Abnormal,Abnormal
+PNC_Distolic_Data,रक्तचाप डायास्टोलिक (mmHg)
+breathingRate_Abnormal,Abnormal
+PNC_Breath_Rate_Data,सांस की दर (प्रति मिनिट)
+PNC_SPO2_Abnormal,Abnormal
+PNC_SPO2_Data,SpO2 (%)
+PNCM_Hemoglobin_Data,हिमोग्लोबिन (gm/dL)
+PNC_C_Birth_Weight_Data,वजन (कि. ग्रा.)
+PNC_C_Temprature,तापमान (फ)
+PNC_C_Temprature_Abnormal,Abnormal
+PNC_C_Temprature_Data,तापमान (F)
+PNCM_Breast_Check,स्तनों की जाँच
+PNCM_investigate,जाँच करें
+Consultation_Hindi,परामर्श
+PNC_Mother,माँ
+PNC_C_Temprature_Abnormal,Abnormal
+PNC_C_Temprature_Data,तापमान (F)
+PNC_C_Consultation_Hindi,परामर्श
+PNC_child_care,नवजात
+PNC_Form,पि. एन. सी.

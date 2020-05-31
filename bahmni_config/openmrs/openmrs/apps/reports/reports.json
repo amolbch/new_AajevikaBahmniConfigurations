@@ -1,0 +1,161 @@
+{
+    "visitReport10": {
+        "name": "Visit Report",
+        "type": "visits",
+        "config": {
+            "forDataAnalysis": true,
+            "patientAttributes": [
+                "caste",
+                "class",
+                "education",
+                "occupation",
+                "primaryContact"
+            ],
+            "visitAttributes": [
+                "Visit Status",
+                "Admission Status"
+            ],
+            "patientAddresses": [
+                "address3",
+                "city_village"
+            ],
+            "applyDateRangeFor": "visitStopDate",
+            "visitTypesToFilter": [
+                "PHARMACY VISIT",
+                "OPD"
+            ]
+        }
+    },
+ "visitMonthlyReport": {
+        "name": "Monthly Visit Report",
+        "type": "visits",
+        "config": {
+            "forDataAnalysis": true,
+            "patientAttributes": [
+                "caste",
+                "class",
+                "education",
+                "occupation",
+                "primaryContact"
+            ],
+            "visitAttributes": [
+                "Visit Status",
+                "Admission Status"
+            ],
+            "patientAddresses": [
+                "address3",
+                "city_village"
+            ],
+            "applyDateRangeFor": "visitStopDate",
+            "visitTypesToFilter": [
+                "PHARMACY VISIT",
+                "OPD"
+            ],
+            "macroTemplatePath" : "/var/www/bahmni_config/openmrs/apps/reports/macrotemplates/Monthly_Report.xls" 
+        }
+    },
+     "SAM_scheduling_follow-up_report": {
+        "name": "SAM Scheduling follow-up report",
+        "type": "MRSGeneric",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/SAM_scheduling_follow-up_report.sql"
+        }
+    },
+    "TB_scheduling_follow-up_report": {
+        "name": "TB Scheduling follow-up report",
+        "type": "MRSGeneric",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/TB_scheduling_follow-up_report.sql"
+        }
+    },
+     "TB_ReportWith_Macro": {
+        "name": "TB Report With Macro",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "TB_Intake_Form",
+            "patientAttributes": [
+                "caste"    
+                    ],
+            "applyDateRangeFor": "obsDate",
+             "macroTemplatePath" : "/var/www/bahmni_config/openmrs/apps/reports/macrotemplates/TB_Report_Macro_Template.xls"            
+            }
+    },
+    "TB_Report": {
+        "name": "TB Intake Form",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "TB_Intake_Form",
+            "patientAttributes": [
+                "caste"    
+                    ],
+            "applyDateRangeFor": "obsDate"
+            }
+    },
+    "Suspected_TB_Female_Patients": {
+        "name": "Suspected TB Female Patients",
+        "type": "MRSGeneric",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/No_of_new_Female_TB_patients.sql"
+        }
+    },
+     "TB_FollowUP_Form": {
+        "name": "TB FollowUP Form",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "TB_FollowUP_Form",
+            "patientAttributes": [
+                "caste",
+                "education"
+            ],
+            "applyDateRangeFor": "obsDate"
+        }
+    },
+     "PNC": {
+        "name": "PNC",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "PNC_Infant_mother_care",
+            "patientAttributes": [
+                "caste",
+                "education"
+            ],
+            "applyDateRangeFor": "obsDate"
+        }
+    },
+     "MTP_Intake_Form": {
+        "name": "MTP Intake Form",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "MTP Intake Form",
+            "patientAttributes": [
+                "caste",
+                "education"
+            ],
+            "applyDateRangeFor": "obsDate"
+        }
+    },
+     "MTP_FollowUp_Form": {
+        "name": "MTP FollowUp Form",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "MTP_FollowUp_Form",
+            "patientAttributes": [
+                "caste",
+                "education"
+            ],
+            "applyDateRangeFor": "obsDate"
+        }
+    },
+     "Admission_Form": {
+        "name": "Admission Form",
+        "type": "obsTemplate",
+        "config": {
+            "templateName": "Admission_Form",
+            "patientAttributes": [
+                "caste",
+                "education"
+            ],
+            "applyDateRangeFor": "obsDate"
+        }
+    }
+ }

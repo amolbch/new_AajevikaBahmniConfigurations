@@ -1,0 +1,13 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,child.12,child.13,child.14,child.15,child.16,child.17,child.18,child.19,child.20,child.21,child.22,child.23,child.24,reference-term-source,reference-term-code,reference-term-relationship
+Global_Hindi_Tem_Data,,Concept Details,??????,GLOBAL_Hindi_Temprature,GLOBAL_Hindi_Temp_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Breath_Rate_Data,,Concept Details,???? ????? ????,2M_Breath_rate,2M_Breath_rate_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_RE_Breath_Data,,Concept Details,???? ???? ????? ????,2M_Re: breathable per minute,2M_Re: breathable_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Blood_Sugar_Data,,Concept Details,???? ????,2M_Blood_Sugar,2M_Blood_Sugar_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Heart_Rate_Data,,Concept Details,????? ??? (????? ????),2M_Heart_Rate,2M_Heart_Rate_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_SPO2_Data,,Concept Details,SpO2,2M_SPO2,2M_SPO2_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Vitals_Section,,ConvSet,Vital Parameters,2M_Heart_Rate_Data,2M_Breath_Rate_Data,2M_CFT,2M_SPO2_Data,Global_Hindi_Tem_Data,GLOBAL_Infant_Weight,GLOBAL_Infant_Height,,,,,,,,,,,,,,,,,,,,
+2M_Section_1,,ConvSet,,2M_Infec_Any_Symp,2M_Blood_Sugar_Data,2M_Classification,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Section_2,,ConvSet,,2M_Have_Diarihea,2M_Any_Symp,2M_Blood_Stool,2M_Any_Classification,,,,,,,,,,,,,,,,,,,,,,,
+2M_Section_3,,ConvSet,,2M_Feed_Problem,2M_Feed_Classification,,,,,,,,,,,,,,,,,,,,,,,,,
+2M_Section4_Diagnosis,,ConvSet,??????????,2M_diagnosis,2M_Serious_Illness,2M_Advice,,,,,,,,,,,,,,,,,,,,,,,,
+2MI_Child_Care,,Misc,Child Under 2 Months Case Sheet,GLOBAL_Type_Of_Visit,2M_Vitals_Section,2M_Section_1,2M_Section_2,2M_Section_3,2M_any_other_Problem_Estimation,2M_Section4_Diagnosis,GLOBAL_Fee_Section,GLOBAL_Follow up after,GLOBAL_Hindi_Name_of_Doctor,GLOBAL_Name_of_nurse_or_SHW_hindi,,,,,,,,,,,,,,,,

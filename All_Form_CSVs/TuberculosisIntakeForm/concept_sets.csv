@@ -1,0 +1,3 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,child.12,reference-term-source,reference-term-code,reference-term-relationship
+TB_Intake_Occupation_History_Data,,Concept Details,Occupation History,TB_Intake_Occupation_History,TB_Intake_No_of_years,,,,,,,,,,,,,
+TB_Intake_Form,,ConvSet,Tuberculosis Intake Form,WEIGHT,HEIGHT,TB_Intake_BMI,TB_Intake_ATT_start,TB_Intake_CAT,TB_Intake_Occupation_History_Data,TB_Intake_Past_History,TB_Intake_Past_His_Reason,TB_Intake_Treatment_Plan,TB_Intake_X-Ray,TB_Intake_Link_Patient_To_Aajeevika_Other_Services,,,,

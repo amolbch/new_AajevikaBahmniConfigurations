@@ -1,0 +1,87 @@
+FULLY_SPECIFIED,SHORT
+ADULTCaseSheet_Doctors_Name_1,Dr. Sanjana
+ADULTCaseSheet_Doctors_Name_2,Dr. Pavitra
+ADULTCaseSheet_Doctors_Name_3,Dr. Pukhraj
+ADULTCaseSheet_Doctors_Name_4,Dr Anurag
+ADULTCaseSheet_Doctors_Name_5,Dr Rohit
+ANC_Acute abdominal pain,तीव्र पेट दर्द
+ANC_Assessment by classification form: Special investigation needed,वर्गीकरण फार्म व्दारा आंकलन : विशेष जाँच की जरूरत
+ANC_Babys_heartbeat_per_minute,शिशु के दिल की धड़कन (प्रति मिनट)
+ANC_Baby_status_after32weeks,"शिशु की स्थिती, ३२ सप्ताह के बाद"
+ANC_Baby_status_head down,सिर नीचे
+ANC_Baby_status_Horizontal,आड़ा
+ANC_Baby_status_Reverse,उल्टा
+ANC_Baby_status_Skew,तिरछा
+ANC_Bloating,सांस फूलना
+ANC_Blurred eyes,आँखों से धुधला दिखना
+ANC_breasts_check_Cracked,Cracked
+ANC_breasts_check_for_after_32_week,स्तनों की जाँच (चपटे/धंसे निप्पल के लिये) ३२ सप्ताह के बाद
+ANC_breasts_check_normal,Normal
+ANC_Checking_by_the_vagina_only if needed,योनि व्दारा जाँच (सिर्फ जरूरत होने पर ही)
+ANC_Contraception device (after 28 weeks),स्तनपान / गर्भनिरोधक साधन ( 28 सप्ताह के बाद)
+ANC_Delivery point,प्रसव स्थान
+ANC_Disadvantages to the woman if yes specify,महिला को तकलीफ (यदि हाँ तो स्पष्ट करें)
+ANC_Education about danger signs,खतरे के लक्षणों के बारे में शिक्षा
+ANC_excess fatigue_excess cough,ज्यादा थकान / अधिक खाँसी
+ANC_Explain other advice,अन्य सलाह स्पष्ट करें
+ANC_Fetal_period_week,गर्भ की अवधि (सप्ताह)
+ANC_fever,बुखार
+ANC_Haemoglobin,हीमोग्लोबीन (ग्राम)
+ANC_headache,सिर दर्द
+ANC_Health center,स्वास्थ्य केन्द्र
+ANC_Hospital,अस्पताल
+ANC_Information on danger signs,खतरे के लक्ष्णों की जानकारी
+ANC_Iron pills (number),आयरन की गोलियाँ (संख्या)
+ANC_Iron_Fully,Fully
+ANC_Iron_No,No
+ANC_Iron_Partial,Partially
+ANC_LabTest_Blood_Group,रक्त समूह
+ANC_LabTest_HIV,HIV
+ANC_LabTest_VDRL,VDRL (एच्छिक)
+ANC_Lab_Test,अन्य जाँच
+ANC_Needofreferral,रेफरल की जरूरत
+ANC_OBS_PO_Blood,रक्तचाप (mmHg)
+ANC_Other_treatments,अन्य उपचार
+ANC_Other_treatments_calcium,क्लोरोक्विन
+ANC_Other_treatments_chloroquine,कैल्शियम
+ANC_Protein in urine,पेशाब में प्रोटीन
+ANC_Protein_in_urine_+,#ERROR!
+ANC_Protein_in_urine_++,#ERROR!
+ANC_Protein_in_urine_+++,#ERROR!
+ANC_Protein_in_urine_++++,#ERROR!
+ANC_Protein_in_urine_0,0
+ANC_Referral Hospital Advice,रेफरल अस्पताल पर ले जाने की सलाह
+ANC_referral_Do not move the baby (even after 28 weeks),शिशु का हिलना नहीं (28 सप्ताह के बाद भी)
+ANC_referral_HB_lessthan_7gm_evenafter26weeks,HB 7gm% से कम (26 सप्ताह के बाद भी)
+ANC_referral_Infant minimization,शिशु की कम वृध्दि
+ANC_referral_Twin children_inverted baby_baby not beating,जुडवा बच्चों / उल्टे बच्चे / शिशु की धड़कन नहीं
+ANC_swelling of head or whole body,"चेहरे, हाथों या पुरे शरीर पर सूजन"
+ANC_Swelling on hands and face,हाथों व चेहरे पर सूजन
+ANC_Tetanus vaccine,टेटनस का टीका (खुराक)
+ANC_Tetanus_vaccine_1st,1st
+ANC_Tetanus_vaccine_2nd,2nd
+ANC_Tetanus_vaccine_Booster,Booster
+ANC_Tongue and nail color,जीभ व नाखूनों का रंग
+ANC_Tongue_nail_Pink,गुलाबी
+ANC_Tongue_nail_White,सफेद
+ANC_Tongue_nail_Yellowness,पीलापन
+ANC_Uterine height (in weeks),गर्भाशय की ऊँचाई (सप्ताह में)
+ANC_Vaginal bleeding,योनि से खून या पानी का छूटना
+ANC_Vaginal discharge,योनि से असामान्य स्त्राव
+ANC_Visit_Date,तारीख
+ANC_Weight,वजन (कि. ग्रा)
+ANC_Whether iron pills are taken or not,आयरन की गोलियाँ ली या नहीं
+Ans_option_no_hindi,नहीं
+Ans_option_yes_hindi,हाँ
+GLOBAL_Follow up after,दोबारा दिखानेकी तारीख
+GLOBAL_Hindi_Name_of_Doctor,डॉक्टर का नाम
+GLOBAL_Name_of_nurse_or_SHW_hindi,नर्स या / SHW का नाम
+GLOBAL_Nurse/SHW_name1,नर्स / SHW_Name 1
+GLOBAL_Nurse/SHW_name2,नर्स / SHW_Name 2
+ANC_Information,जानकारी
+ANC_Physical_observation,शारीरिक जाँच
+ANC_Lab_observation,प्रायोगिक जाँच
+ANC_Treatment,उपचार
+ANC_Consultation,सलाह
+ANC_Observation_Form,प्रसव पूर्व जांच
+ANC_Form_Needofreferral,रेफरल की जरूरत

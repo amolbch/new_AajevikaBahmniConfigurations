@@ -1,0 +1,10 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,reference-term-source,reference-term-code,reference-term-relationship
+Temperature Data,,Concept Details,Temperature,Temperature,Temperature Abnormal,,,,,,,,,
+Pulse Data,,Concept Details,Pulse,Pulse,Pulse Abnormal,,,,,,,,,
+RR Data,,Concept Details,RR,RR,RR Abnormal,,,,,,,,,
+SPO2 Data,,Concept Details,SPO2,SPO2,SPO2 Abnormal,,,,,,,,,
+Systolic Data,,Concept Details,BP: Systolic,Systolic,Systolic Abnormal,,,,,,,,,
+Diastolic Data,,Concept Details,BP: Diastolic,Diastolic,Diastolic Abnormal,,,,,,,,,
+Admission_Discharge,,ConvSet,Discharge,Admission_Dis_Date,Admission_Diagnosis,Admission_Outcome_of_adm,,,,,,,,
+Admission_Vitals,,ConvSet,Vitals at discharge,Global_Gnral_Condtion,WEIGHT,Temperature Data,Pulse Data,RR Data,SPO2 Data,Systolic Data,Diastolic Data,,,
+Admission_Form,,ConvSet,Admission Form,Admission_Date_And _Time,Admission_Discharge,Admission_Vitals,Global_Outcome,GLOBAL_Fee_Section,Adm_FollowUpDate,GLOBAL_Doctors_Name,GLOBAL_Nurse_Name,,,

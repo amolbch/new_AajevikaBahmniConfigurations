@@ -1,0 +1,11 @@
+name,description,class,shortname,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.8,child.9,child.10,child.11,child.12,child.13,child.14,child.15,child.16,child.17,child.18,child.19,child.20,child.21,child.22,child.23,child.24,child.25,child.26,child.27,child.28,reference-term-source,reference-term-code,reference-term-relationship
+Del_Gravida_Data,,Concept Details,Gravida,Del_Gravida,Del_Gravida_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Parity_Data,,Concept Details,Parity,Del_Parity,Del_Parity_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Abortions_Data,,Concept Details,Abortions,Del_Abortions,Del_Abortions_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Live_Births_Data,,Concept Details,Live births,Del_Live_Births,Del_Live_Births_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Still_Births_Data,,Concept Details,Still births,Del_Still_Births,Del_Still_Births_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Neonatal_Death_Data,,Concept Details,Neonatal death,Del_Neonatal_Death,Del_Neonatal_Death_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Hemoglobin_Data,,Concept Details,Hemoglobin,Del_Hemoglobin,Del_Hemoglobin_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Vitals,,ConvSet,Vital Parameters,WEIGHT,Del_Height,Del_Hemoglobin_Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Del_Newborn_Weight_Data,,Concept Details,Newborn Weight,Del_Newborn_Weight,Del_Newborn_Weight_Abnormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Delivery_Obs_Form,,ConvSet,Delivery Form,Admission_Date_And _Time,Global_Location_Visit,Del_Gravida_Data,Del_Parity_Data,Del_Abortions_Data,Del_Live_Births_Data,Del_Still_Births_Data,Del_Neonatal_Death_Data,Del_Vitals,Del_Any_High_risk,Del_Outcome,Del_specify_reason,Del_Date_of_Delivery,Del_complications_in_delivery,Del_Specify_complications,Del_Outcome_Delivery,Del_Period_Of_Gestation,Del_N_born_sex,Del_Newborn_Weight_Data,Del_LowBirth_Weight,Del_ANY_Newborn_Compli,Del_Newborn_complication,Del_Date_and_Time_of_discharge,GLOBAL_Fee_Section,GLOBAL_Doctors_Name,GLOBAL_Nurse_Name,,,,,

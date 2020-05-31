@@ -1,0 +1,14 @@
+FULLY_SPECIFIED,SHORT
+Global_Hindi_Tem_Data,तापमान (फ)
+2MT5Y_Breath_Rate_Data,सांस की दर (प्रति मिनट)
+2MT5Y_SPO2_Data,SpO2
+2MT5Y_Heart_Rate_Data,हार्ट रेट (प्रति मिनट)
+2MT5Y_Hemoglobin_Data,हीमोग्लोबिन
+2MT5Y_Section_1,Vital Parameters
+2MT5Y_Section_2,खतरे  के लक्षण
+2MT5Y_Section_3,दस्त
+2MT5Y_Section_4,बुखार
+2MT5Y_Section_5,एनीमिया
+2MT5Y_Section_7,कुपोषण
+2MT5Y_Section_8,अन्य
+2MT5Y_Section_Diagnosis,डायग्नोसिस

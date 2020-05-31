@@ -1,0 +1,64 @@
+FULLY_SPECIFIED,SHORT
+GLOBAL_Hindi_Date,तारीख
+GLOBAL_Hindi_Temprature,तापमान (फ)
+GLOBAL_Infant_Weight,वजन (कि. ग्रा.)
+GLOBAL_Infant_Height,लम्बाई (से. मी.)
+2M_Breath_rate,सांस प्रति मिनट
+2M_Heart_Rate,हार्ट रेट (प्रति मिनट)
+2M_Re: breathable per minute,पुनः सांस प्रति मिनट
+2M_Infec_Symp 1,दौरे
+2M_Infec_Symp 2,तेज सांस
+2M_Infec_Symp 3,पसली का अत्यधिक धंसना
+2M_Infec_Symp 4,नथुनों का फूलना
+2M_Infec_Symp 5,कराहना
+2M_Infec_Symp 6,हिलना-ढुलना सामान्य से कम
+2M_Infec_Symp 7,>10 फुंसियाँ या एक बड़ा फोड़ा
+2M_Infec_Symp 8,नाभि लाल या पीप
+2M_Infec_Symp 9,< 10 फुंसियाँ
+2M_Infec_Any_Symp,क्या शिशु को संक्रमण के कोई लक्षण है?
+2M_Classification_1,संभावित गंभीर जीवाणु संक्रमण
+2M_Classification_2,स्थानीय जीवाणु संक्रमण
+2M_Classification_3,संक्रमण नहीं
+2M_Classification,वर्गीकरण
+2M_Have_Diarihea,क्या शिशु को दस्त है?
+2M_Dull_Unconscious,सुस्त या बेहोश
+2M_Restless_Irritable,बेचैन व चिड़चिड़ा
+2M_Blazon_Eyes,धंसी हुई आँखें
+2M_Skin_Goes_Slowly,त्वचा धीरे जाती है
+2M_Skin_Goes_Very_Slowly,त्वचा बहुत धीरे जाती है
+2M_Any_Symp,क्या शिशु को इन्मे से कोई लक्षण है?
+2M_Blood_Stool,क्या शिशु के मल में खून आता है?
+2M_Any_Classification_1,गंभीर निर्जलीकरण
+2M_Any_Classification_2,कुछ निर्जलीकरण
+2M_Any_Classification_3,गंभीर पेचिश
+2M_Any_Classification_4,निर्जलीकरण नहीं
+2M_Any_Classification,वर्गीकरण
+2M_Feed_Problem_1,स्तन से बिलकुल लगाव नहीं
+2M_Feed_Problem_2,स्तन से अच्छा लगाव नहीं
+2M_Feed_Problem_3,स्तन को बिलकुल नहीं चुसना
+2M_Feed_Problem_4,स्तन को प्रभावी ढंग से नहीं चुसना
+2M_Feed_Problem_5,पेय पदार्थ लेना
+2M_Feed_Problem_6,२४ घंटे में <8 बार स्तनपान करना
+2M_Feed_Problem_7,स्तनपान बिलकुल नहीं कर पाना
+2M_Feed_Problem_8,मुँह में छाले या सफ़ेद दाग
+2M_Feed_Problem_9,स्तनों में सूजन
+2M_Feed_Problem_10,स्तनपान करते समय दर्द
+2M_Feed_Problem_11,फोड़ा
+2M_Feed_Problem_12,चूचकों में घाव
+2M_Feed_Problem,दूध पिलाने संबंधी समस्या
+2M_Feed_Classification_1,संभावित गंभीर जीवाणु संक्रमण
+2M_Feed_Classification_2,दूध पिलाने संबंधी समस्या
+2M_Feed_Classification_3,दूध पिलाने संबंधी समस्या नहीं
+2M_Feed_Classification,वर्गीकरण
+2M_Blood_Sugar,ब्लड शुगर
+2M_any_other_Problem_Estimation,अन्य समस्या ओं का आकलन
+2M_diagnosis,डायग्नोसिस
+2M_Serious_Illness,गंभीर बीमारी
+2M_Advice_only_feed,केवल स्तनपान कराए
+2M_Advice_keep_ch_in_good_temp,बच्चे को गर्म रखे
+2M_Advice_Do_Immunization,टीकाकरण कराए
+2M_Advice_Treatement_fast,बीमार होने पर तुरंत इलाज कराए
+2M_Advice,सलाह
+GLOBAL_Follow up after,फॉलो-अप
+GLOBAL_Hindi_Name_of_Doctor,डॉक्टर का नाम
+GLOBAL_Name_of_nurse_or_SHW_hindi,नर्स का नाम
